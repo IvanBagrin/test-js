@@ -1,0 +1,10 @@
+.strUser:hover {
+    background: rgba(111, 111, 236, 0.589);
+    box-shadow: 0 0 10px; /* Параметры тени */
+    padding: 10px;
+    transition: .55s;
+}
+.thTable:hover {
+    background: rgba(111, 111, 236, 0.9);
+    transition: .55s;
+}
