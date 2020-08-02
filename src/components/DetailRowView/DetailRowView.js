@@ -1,5 +1,5 @@
 import React from 'react'
-import './DetailRowView.css'
+
 export default ({person}) => (
     <div>
         <p>Выбран пользователь <b>{person.firstName + ' ' + person.lastName}</b></p>
